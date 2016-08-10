@@ -1,0 +1,6 @@
+name: CustomAIEntity
+version: er
+main: me.elcih.CustomAIEntity.CustomAIEntity
+commands:
+   Cue:
+      description: Spawn a new Zombie.
